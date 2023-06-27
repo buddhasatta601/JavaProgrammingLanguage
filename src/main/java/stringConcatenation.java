@@ -1,5 +1,3 @@
-package src;
-
 public class stringConcatenation {
     public static void main(String args[]){
         String f_name ="buddha ";

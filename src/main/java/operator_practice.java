@@ -1,5 +1,3 @@
-package src.main;
-
 public class operator_practice {
     public static void main(String args[]){
         //this is the arithmetic operator
