@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class boolean_operator {
+public class boolean_operator {
+    public static void main(String args[]){
+        boolean a = true;
+        boolean b = false;
+
+        System.out.println(a&&b);
+        System.out.println(a||b);
+        System.out.println(!(a&&b));
+    }
 }

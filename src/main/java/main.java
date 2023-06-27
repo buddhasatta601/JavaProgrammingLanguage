@@ -1,4 +1,3 @@
-package src;
 //Comment for working with Java
 /* This is a java Multiline Comment */
 
